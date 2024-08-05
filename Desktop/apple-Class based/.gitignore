@@ -1,4 +1,55 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# System-specific files
+/.Xauthority
+/.aspell.*
+/.bash*
+/.cache/
+/.config/
+/.dmrc
+/.dotnet/
+/.eteks/
+/.gitconfig
+/.gnome/
+/.googleearth/
+/.gtkrc*
+/.java/
+/.lesshst
+/.linuxmint/
+/.local/
+/.mozilla/
+/.mysql_history
+/.npm/
+/.nvm/
+/.pki/
+/.profile
+/.sudo_as_admin_successful
+/.thunderbird/
+/.vscode/
+/.wget-hsts
+/.xsession-errors*
+/.zoom/
+
+# Temporary files
+/.#
+/*.odt#
+
+# Large media files
+/Pictures/
+/Videos/
+
+# Other unwanted directories
+/Buddy-Up/
+/REACT WEBSITE/
+/class object practice/
+/desktop 2/
+/Documents/
+/Downloads/
+/KIDIST FLASH/
+/files /
+/k /
+/practice_project/
+/snap/
+/wifi-qr.png
 
 
